@@ -13,3 +13,6 @@ joblib>=1.2.0             # CRITICAL: Used to save/load models (.pkl files)
 
 # --- Prototype / UI ---
 streamlit>=1.22.0
+
+fuzzywuzzy
+python-Levenshtein
