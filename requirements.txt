@@ -1,0 +1,15 @@
+# --- Data Manipulation ---
+pandas>=2.0.0
+numpy>=1.24.0
+
+# --- Visualization (For the Paper/Reports) ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Machine Learning ---
+scikit-learn>=1.2.0       # For Random Forest, Linear Regression
+xgboost>=1.7.0            # (Optional) Often wins Kaggle competitions
+joblib>=1.2.0             # CRITICAL: Used to save/load models (.pkl files)
+
+# --- Prototype / UI ---
+streamlit>=1.22.0
